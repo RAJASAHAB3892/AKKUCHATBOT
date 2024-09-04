@@ -11,17 +11,17 @@
     "buildpacks": [{
     "url": "heroku/python"
   }],
-  "repository": "https://github.com/Badhacker98/Chat_Ai_Bot",
+  "repository": "https://telegra.ph/file/8ff84b5d7a6a1507e4b6a.mp4",
   "env": {
     "API_ID": {
       "description": "Get this value from my.telegram.org/apps.",
       "required": true,
-      "value": "29908998"
+      "value": "28196711"
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org/apps.",
       "required": true,
-      "value": "3a0d920a6370b97671ea838d92dc559c"
+      "value": "a8a23bffb12aae7a4c72fa2b4cd538a1"
     },
     "BOT_TOKEN": {
       "description": "A Bot token from @BotFather",
@@ -31,12 +31,12 @@
     "MONGO_URL": {
       "description": "Get a mongodb url from https://cloud.mongodb.com.",
       "required": true,
-      "value": "mongodb+srv://BADMUNDA:BADMYDAD@badhacker.i5nw9na.mongodb.net/"
+      "value": "mongodb+srv://PANDABABY:PANDABABY@pandababy.rft5a3z.mongodb.net/?retryWrites=true&w=majority&appName=Pandababy"
     },
     "OWNER_ID": {
       "description": "User id of the user who will known as owner of the bot.",
       "required": true,
-      "value": "6566179661"
+      "value": "6655939309"
     }
   }
 }
